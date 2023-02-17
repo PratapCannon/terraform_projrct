@@ -6,5 +6,5 @@ module "linuxvm" {
     subnet_name="subnet1"
     network_security_group_name="nsg1"
     number_of_vms=4
-    username="gaurav"
+    username="pratap"
 }
